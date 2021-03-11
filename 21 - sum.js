@@ -2,3 +2,9 @@
 // i.e: sum(4)
 // 6
 // which is 0 + 1 + 2 + 3
+
+const sum = () => {
+
+}
+
+console.log(sum(4));

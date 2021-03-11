@@ -2,3 +2,9 @@
 // i.e: stepByStep(5)
 // "012345"
 
+const stepByStep = () => {
+
+}
+
+
+console.log(stepByStep(5))

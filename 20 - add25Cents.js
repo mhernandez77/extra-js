@@ -2,3 +2,9 @@
 // i.e: add25Cents(7)
 // 1.75
 // which is: 0.25+0.25+0.25+0.25+0.25+0.25+0.25
+
+const add25Cents = () => {
+
+}
+
+console.log(add25Cents(7))

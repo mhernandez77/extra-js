@@ -3,3 +3,9 @@
 // second place: 'silver'
 // third place: 'bronze'
 // other places: 'keep trying!
+
+const podium = () => {
+   
+}
+
+console.log(podium(3))

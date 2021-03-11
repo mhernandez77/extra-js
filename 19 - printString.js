@@ -2,3 +2,7 @@
 // return the string the number of times that you received as parameter.
 // i.e: printString(3, 'blue')
 // 'blueblueblue'
+
+const printString = () => {};
+
+console.log(printString(3, "blue"));
